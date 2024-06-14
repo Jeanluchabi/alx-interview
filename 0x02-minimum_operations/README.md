@@ -1,4 +1,4 @@
-This a project's task on 0x02. Minimum Operations
+This a project's task on Minimum Operations
 
 
 0. Minimum Operations
